@@ -1,4 +1,4 @@
-# TODO list (Rails API + React) ✅
+# Todo-list app (Rails API + React) ✅
 
 A web application to list all the tasks you want to complete.
 
