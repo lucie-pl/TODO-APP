@@ -1,4 +1,4 @@
-# Todo-list app (Rails API + React) ✅
+# [Todo-list app](https://lucie-pl-todo-list-app.vercel.app/) (Rails API + React) ✅ 
 
 A web application to list all the tasks you want to complete, check when they are done, delete specific tasks or delete them all at once.
 
